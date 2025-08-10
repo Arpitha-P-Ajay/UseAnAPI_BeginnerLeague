@@ -63,8 +63,8 @@ let generateCard = (data) => {
         </div>
         <div class="stats">
           <div>
-            <h3>60</h3>
-            <p>${statAttack}</p>
+            <h3>${statAttack}</h3>
+            <p>Attack</p>
           </div>
           <div>
             <h3>${statDefense}</h3>
